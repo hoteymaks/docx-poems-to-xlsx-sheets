@@ -16,6 +16,8 @@ In case poems are provided in Word file, you can easily automate processing the 
 6. Wait until Terminal will print `Excel file 'poems.xlsx' created successfully.`
 7. Locate project directory, there you will find your processed Excel file
 
+After that, you might like to use <a href="https://github.com/hoteymaks/xlsx-poems-to-java-array">my utility to turn the output Excel file to an array</a>.
+
 
 ## How it works
 - Utility takes first paragraph in bold as an author name
